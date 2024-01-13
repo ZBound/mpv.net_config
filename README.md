@@ -13,3 +13,6 @@ mpv.net_CM播放器的自用配置备份
 
 [mpv-config](https://github.com/dyphire/mpv-config)
 
+[mpv-osc-tethys](https://github.com/Zren/mpv-osc-tethys)
+
+[mpv.net-DW](https://github.com/diana7127/mpv.net-DW)
