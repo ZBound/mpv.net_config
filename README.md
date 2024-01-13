@@ -4,6 +4,7 @@ mpv.net_CM播放器的自用配置备份
 感谢 [mpv-player](https://github.com/mpv-player) 项目以及所有开发者们
 
 感谢以下开源项目以及所有开发者们:
+[mpv.net](https://github.com/mpvnet-player/mpv.net)
 
 [MPV_lazy](https://github.com/hooke007/MPV_lazy)
 
