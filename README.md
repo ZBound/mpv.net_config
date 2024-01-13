@@ -1,5 +1,5 @@
 # mpv_config
-mpv播放器的自用配置
+mpv.net_CM播放器的自用配置备份
 ## 感谢
 感谢 [mpv-player](https://github.com/mpv-player) 项目以及所有开发者们
 
